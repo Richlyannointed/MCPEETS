@@ -113,7 +113,7 @@ This project is built using [Mathematica](https://www.wolfram.com/siteinfo/). To
 ## Usage
 
 <div style="text-align: center;">
-  <img src="graphics/demo.webp" alt="Example">
+  <img src="graphics/short_demo.webp" alt="Example">
 </div>
 
 ### Explore
@@ -122,7 +122,7 @@ This project is built using [Mathematica](https://www.wolfram.com/siteinfo/). To
 - Switching between an isotropically emitting source and photon _beams_
 - Simulating as many photon pairs as your machine can handle
 
-
+![image](graphics\sim_screenshot.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -195,4 +195,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[example]: graphics/demo.webp
+[example]: graphics/short_demo.webp
