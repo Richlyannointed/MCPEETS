@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Richlyannointed/MCPEETS">
-    <img src="images/LOGO.png" alt="Logo" width="500" height="auto">
+    <img src="graphics/LOGO.png" alt="Logo" width="500" height="auto">
   </a>
 
 <h3 align="center">MCPEETS</h3>
@@ -58,9 +58,6 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -81,25 +78,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 `MCPEETS` is a gamma ray propagation simulation tool that includes azimuthal correlation
 effects stemming from polarization entanglement in annihilation photon emission. It allows for representative
 modeling of gamma ray propagation, integrating azimuthal scattering correlation effects arising from the entangled polarization states of the emitted photon pairs.
 
 ### Poster
 <div align="center">
-  <img src="images/Poster.png" alt="Logo" width="auto" height="auto">
+  <img src="graphics/Poster.png" alt="Logo" width="auto" height="auto">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -111,37 +97,21 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This project is built using [Mathematica](https://www.wolfram.com/siteinfo/). To explore it, you will need a valid license. If you are a UCT student, you can access Mathematica through the university's resources.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/Richlyannointed/MCPEETS.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-5. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin Richlyannointed/MCPEETS
-   git remote -v # confirm the changes
-   ```
+1. Download latest release: zip file with Mathematica Notebook and accompanying [NIST](https://physics.nist.gov/PhysRefData/Xcom/html/xcom1.html) cross-section data (.csv)
+2. Run the notebook in the same folder as the cross-section data
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
+
+<div style="text-align: center;">
+  <img src="graphics/example2.webp" alt="Example">
+</div>
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
@@ -202,7 +172,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-url]: https://github.com/Richlyannointed/MCPEETS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: graphics/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -219,3 +189,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
+[example]: graphics/example2.webp
