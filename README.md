@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Richlyannointed/MCPEETS">
-    <img src="images/LOGO.png" alt="Logo" width="80" height="80">
+    <img src="images/LOGO.png" alt="Logo" width="500" height="auto">
   </a>
 
 <h3 align="center">MCPEETS</h3>
