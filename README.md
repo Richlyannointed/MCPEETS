@@ -39,10 +39,8 @@
   <p align="center">
     Photon transport simulation built in Mathematica
     <br />
-    <a href="https://github.com/Richlyannointed/MCPEETS"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://github.com/Richlyannointed/MCPEETS">View Demo</a>
+    <a href="#usage">View Demo</a>
     ·
     <a href="https://github.com/Richlyannointed/MCPEETS/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
@@ -67,6 +65,9 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
+          <ul>
+        <li><a href="#explore">Explore</a></li>
+      </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -82,11 +83,13 @@
 effects stemming from polarization entanglement in annihilation photon emission. It allows for representative
 modeling of gamma ray propagation, integrating azimuthal scattering correlation effects arising from the entangled polarization states of the emitted photon pairs.
 
-### Poster
 <div align="center">
-  <img src="graphics/Poster.png" alt="Logo" width="auto" height="auto">
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Poster
+<img src="graphics/Poster.png" alt="Logo" width="auto" height="auto">
+</div>
+<br/>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -110,12 +113,15 @@ This project is built using [Mathematica](https://www.wolfram.com/siteinfo/). To
 ## Usage
 
 <div style="text-align: center;">
-  <img src="graphics/example2.webp" alt="Example">
+  <img src="graphics/demo.webp" alt="Example">
 </div>
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Explore
+- Changing detector _dimensions_
+- Preparing _cross-section data_ for different detector materials
+- Switching between an isotropically emitting source and photon _beams_
+- Simulating as many photon pairs as your machine can handle
 
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -152,7 +158,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Project supervised by Prof. A. Peshier in the Department of Physics UCT.
+* Project supervised by Prof. A. Peshier in the Department of Physics at UCT.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,7 +177,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-shield]: https://img.shields.io/github/license/Richlyannointed/MCPEETS.svg?style=for-the-badge
 [license-url]: https://github.com/Richlyannointed/MCPEETS/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[linkedin-url]: https://linkedin.com/in/nathanngqwebo
 [product-screenshot]: graphics/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
@@ -189,4 +195,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
-[example]: graphics/example2.webp
+[example]: graphics/demo.webp
