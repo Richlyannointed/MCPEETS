@@ -122,7 +122,7 @@ This project is built using [Mathematica](https://www.wolfram.com/siteinfo/). To
 - Switching between an isotropically emitting source and photon _beams_
 - Simulating as many photon pairs as your machine can handle
 
-![image](graphics\sim_screenshot.png)
+![image](graphics/sim_screenshot.png)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
