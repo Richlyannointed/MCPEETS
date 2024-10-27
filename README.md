@@ -44,7 +44,7 @@
     ·
     <a href="https://github.com/Richlyannointed/MCPEETS/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
-    <a href="https://github.com/Richlyannointed/MCPEETS/issues/new?labels=enhancement&template=feature-request---.md">Download</a>
+    <a href="https://github.com/Richlyannointed/MCPEETS/releases/tag/v1.1.2">Download</a>
   </p>
 </div>
 
